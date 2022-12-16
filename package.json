@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "swa start src --api-location api",
-    "playwright_test": "playwright test",
-    "build": "npm run build"
+    "playwright_test": "playwright test"
   },
   "repository": {
     "type": "git",
